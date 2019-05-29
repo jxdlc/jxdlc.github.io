@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yecheng.in</id>
-    <title>ycpho</title>
-    <updated>2019-05-29T07:05:53.246Z</updated>
+    <title>sycpho</title>
+    <updated>2019-05-29T07:06:39.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yecheng.in"/>
     <link rel="self" href="https://yecheng.in/atom.xml"/>
     <subtitle>create magic</subtitle>
     <logo>https://yecheng.in/images/avatar.png</logo>
     <icon>https://yecheng.in/favicon.ico</icon>
-    <rights>All rights reserved 2019, ycpho</rights>
+    <rights>All rights reserved 2019, sycpho</rights>
     <entry>
         <title type="html"><![CDATA[黎里古镇]]></title>
         <id>https://yecheng.in/post/kUbVwEmWc</id>
