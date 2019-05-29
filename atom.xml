@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yecheng.in</id>
-    <title>sycpho</title>
-    <updated>2019-05-29T06:13:33.352Z</updated>
+    <title>syctib</title>
+    <updated>2019-05-29T06:31:16.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yecheng.in"/>
     <link rel="self" href="https://yecheng.in/atom.xml"/>
     <subtitle>create magic</subtitle>
     <logo>https://yecheng.in/images/avatar.png</logo>
     <icon>https://yecheng.in/favicon.ico</icon>
-    <rights>All rights reserved 2019, sycpho</rights>
+    <rights>All rights reserved 2019, syctib</rights>
 </feed>
