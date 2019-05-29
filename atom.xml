@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yecheng.in</id>
-    <title>yctib</title>
-    <updated>2019-05-29T06:33:21.959Z</updated>
+    <title>QITIBET</title>
+    <updated>2019-05-29T06:35:05.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yecheng.in"/>
     <link rel="self" href="https://yecheng.in/atom.xml"/>
     <subtitle>create magic</subtitle>
     <logo>https://yecheng.in/images/avatar.png</logo>
     <icon>https://yecheng.in/favicon.ico</icon>
-    <rights>All rights reserved 2019, yctib</rights>
+    <rights>All rights reserved 2019, QITIBET</rights>
 </feed>
